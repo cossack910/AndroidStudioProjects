@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MS選択</string>
+    <string name="tv_select">好きなガンダムを選択してください。</string>
+    <string-array name="lv_ms">
+        <item>ファースト</item>
+        <item>Z</item>
+        <item>ZZ</item>
+        <item>ユニコーン</item>
+    </string-array>
+    <string name="iv_selected">選択されたガンダムの画像</string>
+    <string name="bt_back">もどる</string>
+</resources>

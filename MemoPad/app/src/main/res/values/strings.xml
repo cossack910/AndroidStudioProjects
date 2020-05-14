@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">メモ帳</string>
+    <string name="action_settings">Settings</string>
+    <!--リスト画面用-->
+    <string name="tv_title_list">メモリスト</string>
+    <string name="btn_new">新規</string>
+    <!--編集画面用-->
+    <string name="tv_title_edit">メモ内容編集</string>
+    <string name="tv_title_insert">メモ内容登録</string>
+    <string name="tv_input_title">タイトル：</string>
+    <string name="tv_input_content">内容：</string>
+    <string name="btn_save">更新</string>
+    <string name="btn_insert">登録</string>
+    <string name="btn_back">戻る</string>
+    <string name="btn_delete">削除</string>
+    <string name="msg_input_title">タイトルを入力してください。</string>
+</resources>

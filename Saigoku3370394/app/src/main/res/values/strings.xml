@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">三十三所巡礼</string>
+    <string name="btn_save">保存</string>
+    <string name="tv_navi">寺院情報を入力してください。</string>
+</resources>

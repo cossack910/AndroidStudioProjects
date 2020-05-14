@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">２コボタンサンプル</string>
+    <string name="tv_name">お名前を入力してください。</string>
+    <string name="bt_click_text">テキストで表示</string>
+    <string name="bt_click_toast">トーストで表示</string>
+</resources>

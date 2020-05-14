@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ST31 Androidサンプル14 オプションメニュー
+res/values/string.xmlファイル
+-->
+<resources>
+    <string name="app_name">オプションメニューサンプル</string>
+    <string name="menu_reset">リセット</string>
+    <string name="menu_fonttype">フォント</string>
+    <string name="menu_fonttype_serif">明朝体</string>
+    <string name="menu_fonttype_sansserif">ゴシック体</string>
+    <string name="menu_fonttype_monospace">等幅</string>
+    <string name="menu_fontstyle">字体</string>
+    <string name="menu_fontstyle_normal">標準</string>
+    <string name="menu_fontstyle_italic">斜体</string>
+    <string name="menu_fontstyle_bold">太字</string>
+    <string name="menu_fontstyle_bolditalic">斜体太字</string>
+    <string name="tv_speech">我々は一人の英雄を失った。\nしかし、これは敗北を意味するのか?\n否!\n始まりなのだ!\n地球連邦に比べ我がジオンの国力は30分の1以下である。\nにも関わらず今日まで戦い抜いてこられたのは何故か!\n諸君!\n我がジオン公国の戦争目的が正しいからだ!\n一握りのエリートが宇宙にまで膨れ上がった地球連邦を支配して50余年、宇宙に住む我々が自由を要求して、何度連邦に踏みにじられたことか!\nジオン公国の掲げる、人類一人一人の自由のための戦いを、神が見捨てる訳は無い。\n私の弟、諸君らが愛してくれたガルマ・ザビは死んだ、何故だ!\nこの悲しみも怒りも忘れてはならない!\nそれをガルマは死を以って我々に示してくれたのだ!\n我々は今、この怒りを結集し、連邦軍に叩きつけて初めて真の勝利を得ることが出来る。\nこの勝利こそ、戦死者全てへの最大の慰めとなる。\n国民よ立て!\n悲しみを怒りに変えて、立てよ国民!\nジオンは諸君等の力を欲しているのだ。\nジーク・ジオン!!</string>
+</resources>
+
+
+
+
+

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">共有IT記事</string>
+    <string name="tv_last_name">姓を入力してください。</string>
+    <string name="tv_first_name">名を入力してください。</string>
+    <string name="tv_student_id">学籍番号を入力してください。</string>
+    <string name="tv_seat_no">出席番号を入力してください。</string>
+    <string name="tv_url">記事URL:</string>
+    <string name="tv_title">記事タイトル:</string>
+    <string name="tv_comment">コメント入力</string>
+    <string name="bt_send">送信</string>
+    <string name="msg_send_before">サーバにデータを送信します。</string>
+    <string name="msg_send_after">サーバにデータを送信しました。</string>
+    <string name="msg_parse_before">サーバからの返信内容を解析を開始します。</string>
+    <string name="msg_parse_after">サーバからの返信内容の解析が終了しました。</string>
+    <string name="msg_err_send">サーバ通信に失敗しました。もう一度送信をお願いします。</string>
+    <string name="msg_err_timeout">サーバ通信がタイムアウトしました。もう一度送信をお願いします。</string>
+    <string name="msg_err_parse">サーバからの返信内容の解析に失敗しました。もう一度送信をお願いします。</string>
+    <string name="dlg_name">名前：</string>
+    <string name="dlg_student_id">学籍番号：</string>
+    <string name="dlg_seat_no">出席番号：</string>
+    <string name="dlg_message">メッセージ：</string>
+    <string name="dlg_status">ステータス：</string>
+    <string name="dlg_timestamp">タイムスタンプ：</string>
+    <string name="dlg_serialno">シリアルナンバー：</string>
+    <string name="bt_add">追加</string>
+
+
+</resources>

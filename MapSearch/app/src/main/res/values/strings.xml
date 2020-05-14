@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">地図検索</string>
+    <string name="tv_keyword">キーワードを入力してください</string>
+    <string name="bt_search">地図検索</string>
+    <string name="tv_latitude">緯度：</string>
+    <string name="tv_longitude">経度：</string>
+    <string name="bt_show">地図表示</string>
+</resources>

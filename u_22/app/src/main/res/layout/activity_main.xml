@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btTranslation"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_translation"/>
+        <Button
+            android:id="@+id/btDisassembly"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_disassembly"/>
+        <Button
+            android:id="@+id/btKanji"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_kanji"/>
+    </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:inputType="textMultiLine"/>
+</LinearLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuReset"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/menu_reset"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/menuFonttype"
+        android:title="@string/menu_fonttype"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/menuFonttypeSerif"
+                android:title="@string/menu_fonttype_serif"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menuFonttypeSansserif"
+                android:title="@string/menu_fonttype_sansserif"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menuFonttypeMonospace"
+                android:title="@string/menu_fonttype_monospace"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuFontstyle"
+        android:title="@string/menu_fontstyle"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/menuFontstyleNormal"
+                android:title="@string/menu_fontstyle_normal"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menuFontstyleItalic"
+                android:title="@string/menu_fontstyle_italic"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menuFontstyleBold"
+                android:title="@string/menu_fontstyle_bold"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/menuFontstyleBolditalic"
+                android:title="@string/menu_fontstyle_bolditalic"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+</menu>

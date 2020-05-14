@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ダイアログサンプル</string>
+    <string name="btn_simple_dialog">シンプルなダイアログ表示</string>
+    <string name="btn_full_dialog">通常ダイアログ表示</string>
+    <string name="btn_msg_dialog">入力メッセージをダイアログ表示</string>
+    <string name="btn_date_picker_dialog">日付選択ダイアログ表示</string>
+    <string name="btn_time_picker_dialog">時間選択ダイアログ表示</string>
+</resources>

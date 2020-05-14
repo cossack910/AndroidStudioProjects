@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">都道府県メモ</string>
+    <string name="btn_save">保存</string>
+    <string name="tv_navi">メモ内容を入力してください。</string>
+</resources>

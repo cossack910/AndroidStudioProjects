@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">u_22</string>
+    <string name="btn_translation">翻訳</string>
+    <string name="btn_disassembly">品詞分解</string>
+    <string name="btn_kanji">漢字</string>
+</resources>

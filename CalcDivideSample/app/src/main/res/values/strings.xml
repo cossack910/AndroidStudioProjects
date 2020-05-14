@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">割算計算機</string>
+    <string name="tv_nume">分子を入力してください</string>
+    <string name="tv_denomi">分母を入力してください</string>
+    <string name="bt_calc">割り算</string>
+    <string name="bt_clear">クリア</string>
+</resources>

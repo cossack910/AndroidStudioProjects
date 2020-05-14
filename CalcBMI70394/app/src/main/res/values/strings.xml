@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI計算</string>
+    <string name="tv_weight">体重を入力してください(kg)</string>
+    <string name="tv_height">身長を入力してください(cm)</string>
+    <string name="bt_calc">BMI計算</string>
+    <string name="bt_clear">クリア</string>
+</resources>

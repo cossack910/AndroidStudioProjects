@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnSimpleDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showSimpleDialog"
+        android:text="@string/btn_simple_dialog" />
+
+    <Button
+        android:id="@+id/btnFullDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showDialog"
+        android:text="@string/btn_full_dialog"/>
+
+    <EditText
+        android:id="@+id/etMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"/>
+
+    <Button
+        android:id="@+id/btnMsgDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showMsgDialog"
+        android:text="@string/btn_msg_dialog"/>
+
+    <Button
+        android:id="@+id/btnDatePickerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showDatePickerDialog"
+        android:text="@string/btn_date_picker_dialog"/>
+
+    <Button
+        android:id="@+id/btnTimePickerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showTimePickerDialog"
+        android:text="@string/btn_time_picker_dialog"/>
+
+</LinearLayout>

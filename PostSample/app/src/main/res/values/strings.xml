@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">POSTサンプル</string>
+    <string name="tv_name">名前を入力して下さい。</string>
+    <string name="tv_comment">コメントを入力して下さい。</string>
+    <string name="bt_send">送信</string>
+    <string name="dlg_title">入力されたもの</string>
+    <string name="dlg_msg_name">名前：</string>
+    <string name="dlg_msg_comment">コメント：</string>
+    <string name="msg_send_before">サーバにデータを送信します。</string>
+    <string name="msg_send_after">サーバにデータを送信しました。</string>
+    <string name="msg_parse_before">サーバからの返信内容を解析を開始します。</string>
+    <string name="msg_parse_after">サーバからの返信内容の解析が終了しました。</string>
+    <string name="msg_err_send">サーバ通信に失敗しました。もう一度送信をお願いします。</string>
+    <string name="msg_err_timeout">サーバ通信がタイムアウトしました。もう一度送信をお願いします。</string>
+    <string name="msg_err_parse">サーバからの返信内容の解析に失敗しました。もう一度送信をお願いします。</string>
+
+</resources>

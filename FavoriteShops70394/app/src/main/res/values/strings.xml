@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+ST31 評価課題
+res/value/string.xmlファイル
+-->
+<resources>
+    <string name="app_name">お気に入り店</string>
+    <string name="action_settings">Setting</string>
+    <!--リスト画面用-->
+    <string name="tv_title_list">ショップリスト</string>
+    <string name="btn_new">新規</string>
+    <!--編集画面用-->
+    <string name="tv_title_edit">ショップ情報編集</string>
+    <string name="tv_title_insert">ショップ情報登録</string>
+    <string name="tv_shop_title">店名:</string>
+    <string name="tv_shop_tell">Tel:</string>
+    <string name="tv_shop_url">URL:</string>
+    <string name="tv_shop_memo">メモ:</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_insert">登録</string>
+    <string name="btn_url">URL</string>
+    <string name="btn_back">戻る</string>
+    <string name="btn_delete">削除</string>
+    <string name="tv_input_title">店名を入力してください。</string>
+</resources>
